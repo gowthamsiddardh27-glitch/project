@@ -24,7 +24,7 @@
                 <li><a href="https://example.com" target="_blank">Hyperlink:</a> Links out to external websites.</li>
             </ul>
         </section>
-    </main> uigiugiu
+    </main> uigiugiu  nkjhjhvhj
 
     <footer>
         <p>&copy; 2026 Sample Company</p>
